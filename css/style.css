@@ -1,0 +1,33 @@
+*{
+    overflow: hidden;
+}
+.mid-section{
+    height: 90vh;
+}
+.first{
+    height: 85%;
+    overflow: auto;
+}
+.second{
+    width: 98%;
+    height: 15%;
+    margin: auto;
+}
+.left,.right{
+    width: 70%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.center{
+    width: 50%;
+    margin: auto;
+    clear: both;
+    border-radius: 25px;
+    text-align: center;
+    padding: 10px;
+    background-color: wheat;
+}
